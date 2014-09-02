@@ -1,3 +1,13 @@
+/* =========================================================================
+    This is the code for ArduOrbiter V0.1. It isn't as scarey as it looks - 
+    I'll try to explain the code below the best I can.
+    
+    If I have missed anything out, please email me at
+    'arduorbiter@gmail.com'.
+    
+    ***Please note that I did not create ALL of the code.***
+ * ========================================================================= */
+
 // I2C device class (I2Cdev) demonstration Arduino sketch for MPU6050 class using DMP (MotionApps v2.0)
 // 6/21/2012 by Jeff Rowberg <jeff@rowberg.net>
 // Updates should (hopefully) always be available at https://github.com/jrowberg/i2cdevlib
