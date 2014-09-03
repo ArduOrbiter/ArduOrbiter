@@ -4,6 +4,7 @@ ArduOrbiter
 The software running on ArduOrbiter-1.
 
 All the hardware will be tested in vacuum chambers and shakers. They will also be exposed to the extream temperatures. If it still works, we will push for a launch.
+
 ===========
 
 Hardware List:
