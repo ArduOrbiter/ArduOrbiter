@@ -2,7 +2,6 @@ ArduOrbiter
 ===========
 
 The software running on ArduOrbiter-1.
-
 ===========
 
 Hardware List:
