@@ -11,8 +11,16 @@ Hardware List:
 
 Arduino™ Nano - http://www.amazon.co.uk/gp/product/B003YVL34O
 
-IMU (3 Axis Gyroscope) - http://www.amazon.co.uk/gp/product/B00COD97LY
-
 Thermomiter - http://www.amazon.co.uk/gp/product/B007XEYCB4
+
+RFM22B-S2 - https://www.sparkfun.com/products/10154
+
+Sunny Buddy - MPPT Solar Charger - https://www.sparkfun.com/products/12084
+
+LiPo Fuel Gauge - https://www.sparkfun.com/products/10617
+
+Polymer Lithium Ion Battery - 850mAh - https://www.sparkfun.com/products/341
+
+!!! IMU (3 Axis Gyroscope) - http://www.amazon.co.uk/gp/product/B00COD97LY - No longer supported!!!
 
 (Other parts are being tested and coded)
