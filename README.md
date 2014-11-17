@@ -21,6 +21,6 @@ LiPo Fuel Gauge - https://www.sparkfun.com/products/10617
 
 Polymer Lithium Ion Battery - 850mAh - https://www.sparkfun.com/products/341
 
-!!! IMU (3 Axis Gyroscope) - http://www.amazon.co.uk/gp/product/B00COD97LY - No longer supported!!!
-
 (Other parts are being tested and coded)
+
+!!! IMU (3 Axis Gyroscope) - http://www.amazon.co.uk/gp/product/B00COD97LY - No longer supported!!!
