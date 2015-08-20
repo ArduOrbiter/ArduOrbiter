@@ -7,6 +7,8 @@ All harware will be tested at Surrey Space Centre to NASA GEVs standards before 
 
 Official website - https://www.arduorbiter.com
 
+Libraries download - https://www.arduorbiter.com/ArduOrbiter_Libraries.zip
+
 ===========
 
 Hardware List:
