@@ -21,7 +21,7 @@ ArduOrbiter Solar Panels - Coming Soon - Email 'info@arduorbiter.com' for detail
 
 TrisolX T01 Solar Cells - http://www.trisolx.com/
 
-TMP36 - http://www.amazon.co.uk/gp/product/B007XEYCB4
+~~TMP36 - http://www.amazon.co.uk/gp/product/B007XEYCB4~~ Work's well as a heater. No good for a thermometer...
 
 RFM22B-S2 - https://www.sparkfun.com/products/10154
 
